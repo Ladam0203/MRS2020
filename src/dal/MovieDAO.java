@@ -10,10 +10,7 @@ public class MovieDAO implements IMovieDataAccess {
 
     private static final String MOVIES_FILE = "data/movie_titles.txt";
 
-
-
     public List<Movie> getAllMovies() throws IOException {
-
         return null;
     }
 
